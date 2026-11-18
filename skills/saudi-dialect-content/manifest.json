@@ -1,0 +1,29 @@
+{
+  "name": "saudi-dialect-content",
+  "version": "1.0",
+  "created": "2026-09-26",
+  "files": [
+    "SKILL.md",
+    "references/dialect_profiles.md",
+    "references/lexicon_core.csv",
+    "references/source_notes.md",
+    "tests/test_prompts.md"
+  ],
+  "lexicon_entries": 99,
+  "profiles": [
+    "SAUDI_NEUTRAL",
+    "NAJDI_MODERN",
+    "QASSIMI_LOCAL",
+    "HIJAZI_URBAN",
+    "EASTERN_GENERAL",
+    "AHSA_LOCAL",
+    "QATIF_LOCAL",
+    "NORTHERN_GENERAL",
+    "HAIL_SHAMMARI",
+    "SOUTHERN_GENERAL",
+    "ASIRI_LOCAL",
+    "JAZANI_LOCAL",
+    "NAJRANI_LOCAL",
+    "BAHA_LOCAL"
+  ]
+}

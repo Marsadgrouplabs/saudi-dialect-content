@@ -1,0 +1,100 @@
+﻿term,meaning_msa,profile,subregion,register,confidence,notes,source_group
+أبشر,حاضر / بكل سرور / تم,SAUDI_NEUTRAL,عام,casual-service,HIGH,شائع جدًا في التفاعل والخدمة؛ لا تفرط في استخدامه,academic+usage
+أبشري,حاضر / بكل سرور (للمؤنث),SAUDI_NEUTRAL,عام,casual-service,HIGH,صيغة مخاطبة مؤنث,academic+usage
+حياك الله,أهلًا وسهلًا,SAUDI_NEUTRAL,عام,polite,HIGH,ترحيب,usage
+الله يحييك,رد على حياك الله,SAUDI_NEUTRAL,عام,polite,HIGH,رد اجتماعي,usage
+يعطيك العافية,شكر / تقدير,SAUDI_NEUTRAL,عام,polite,HIGH,مناسب لخدمة العملاء,usage
+الله يعافيك,رد على يعطيك العافية,SAUDI_NEUTRAL,عام,polite,HIGH,رد اجتماعي,usage
+ما قصرت,شكر وتقدير,SAUDI_NEUTRAL,عام,polite-casual,HIGH,لا تُستخدم في كل CTA,pragmatics
+طيب,حسنًا / تمام / طيب,SAUDI_NEUTRAL,عام,all,HIGH,discourse marker واسع,Najdi_pragmatics
+خلاص,تم / انتهى / كفاية,SAUDI_NEUTRAL,عام,casual,HIGH,واسع عربيًا وسعوديًا,pragmatics
+عادي,لا مشكلة / طبيعي,SAUDI_NEUTRAL,عام,casual,HIGH,مناسب للمحادثة,usage
+أكيد,بالتأكيد,SAUDI_NEUTRAL,عام,all,HIGH,,usage
+تقدر,يمكنك,SAUDI_NEUTRAL,عام,all,HIGH,أفضل من صياغات فصحى ثقيلة في copy محادثي,usage
+خلّك,ابقَ / كن,SAUDI_NEUTRAL,عام,casual,HIGH,,usage
+لا يفوتك,لا تفوّت,SAUDI_NEUTRAL,عام,marketing,HIGH,CTA طبيعي,usage
+ترى,اعلم/ترى/بالمناسبة,SAUDI_NEUTRAL,يميل للوسط,casual,HIGH,pragmatic marker؛ استخدمه باعتدال,Najdi
+مرّة,جدًا,SAUDI_NEUTRAL,حضري واسع,casual,HIGH,intensifier؛ ليس مناسبًا لكل register,Najdi_pragmatics+Hijazi
+صدق,حقًا / فعلًا,SAUDI_NEUTRAL,يميل للوسط,casual,HIGH,intensifier/discourse,Najdi_pragmatics
+والله,فعلًا / للتأكيد,SAUDI_NEUTRAL,عام,casual,MEDIUM,ديني/تأكيدي؛ لا تجعله حشوًا برانديًا,Najdi_pragmatics
+يعني,أعني / يعني,SAUDI_NEUTRAL,عام,casual,HIGH,discourse marker,Najdi_narratives
+بعدين,ثم / لاحقًا,SAUDI_NEUTRAL,عام,casual,HIGH,discourse marker,Najdi_narratives
+وين,أين,SAUDI_NEUTRAL,واسع,casual,HIGH,مقبول سعوديًا على نطاق واسع,FSI+regional
+ليش,لماذا,SAUDI_NEUTRAL,واسع,casual,HIGH,مقبول في لهجات سعودية متعددة,FSI+regional
+مو,ليس / غير,SAUDI_NEUTRAL,واسع,casual,HIGH,النحو الدقيق يختلف حسب اللهجة,Najdi+Hijazi
+الحين,الآن,NAJDI_MODERN,الرياض/الوسط,casual,HIGH,مفهوم على نطاق واسع لكنه علامة وسطية قوية,Najdi_pragmatics
+ودي,أرغب / أتمنى,NAJDI_MODERN,الوسط,casual,HIGH,طبيعي جدًا في المحادثة,usage
+وش,ماذا,NAJDI_MODERN,الرياض/نجد,casual,HIGH,مرساة نجدية واضحة,Najdi
+أبي,أريد,NAJDI_MODERN,نجد/شمال,casual,HIGH,اختَرها باستمرار مع وش/تبي في النسخة النجدية,Najdi
+تبي,تريد,NAJDI_MODERN,نجد/شمال,casual,HIGH,,Najdi
+نبي,نريد,NAJDI_MODERN,نجد/شمال,casual,HIGH,,Najdi
+موب,ليس / مو,NAJDI_MODERN,نجد,casual,HIGH,مستخدم في نفي غير الفعل؛ التوزيع يختلف,Najdi_negation
+مهوب,ليس / مو,QASSIMI_LOCAL,القصيم/نجد محلي,local,LOCAL,أقوى محليًا من مو؛ لا تستخدمه افتراضيًا في الرياض,Qassimi_negation
+مدري,لا أدري,NAJDI_MODERN,الرياض/نجد,casual,HIGH,موثق كصيغة مختزلة,Najdi_pragmatics
+أقول,اسمع/أقول لك,NAJDI_MODERN,الرياض,casual,HIGH,discourse marker بحسب السياق,Riyadh_DM
+سم,تفضل/نعم؟/أمر,NAJDI_MODERN,نجد,polite-casual,HIGH,متعدد الوظائف اجتماعيًا,KSU_Samm
+مالك لوا,لا، بطريقة ملطفة,QASSIMI_LOCAL,عنيزة/القصيم,local,LOCAL,محلي قوي,SaudiDialectDictionary
+احتس,تكلم,QASSIMI_LOCAL,عنيزة/القصيم,local,LOCAL,محلي قوي,SaudiDialectDictionary
+أولاه,رجاءً,QASSIMI_LOCAL,عنيزة/القصيم,local,LOCAL,محلي/تقليدي,SaudiDialectDictionary
+انفهدز,ابتعد قليلًا,QASSIMI_LOCAL,عنيزة/القصيم,local,LOCAL,محلي قوي؛ ليس brand default,SaudiDialectDictionary
+أبخص به,أعرفه / أعلم به,QASSIMI_LOCAL,القصيم,local,LOCAL,,SaudiDialectDictionary
+إيش,ماذا,HIJAZI_URBAN,جدة/مكة/المدينة,casual,HIGH,مرساة حجازية واضحة,FSI_Hijazi
+أبغى,أريد,HIJAZI_URBAN,الحجاز الحضري,casual,HIGH,,FSI_Hijazi
+تبغى,تريد,HIJAZI_URBAN,الحجاز الحضري,casual,HIGH,,FSI_Hijazi
+نبغى,نريد,HIJAZI_URBAN,الحجاز الحضري,casual,HIGH,,FSI_Hijazi
+فين,أين,HIJAZI_URBAN,الحجاز الحضري,casual,HIGH,,FSI_Hijazi
+دحين,الآن,HIJAZI_URBAN,جدة/مكة,casual,HIGH,علامة حجازية قوية,Hijazi_dictionary
+سيب,اترك,HIJAZI_URBAN,الحجاز الحضري,casual,MEDIUM,أقوى عامية؛ ليست لكل brand,Hijazi_dictionary
+أهرج,أتكلم,HIJAZI_URBAN,الحجاز,casual-local,MEDIUM,محلي أوضح,Hijazi_dictionary
+هرجة,حديث/قصة/موضوع,HIJAZI_URBAN,الحجاز,casual-local,MEDIUM,شائع أيضًا خارج الحجاز بدرجات,usage
+قوام,بسرعة,HIJAZI_URBAN,الحجاز,local,LOCAL,أقدم/أقوى محليًا,Hijazi_dictionary
+بزورة,أطفال,HIJAZI_URBAN,الحجاز,local,LOCAL,لا تستخدمه في copy رسمي,Hijazi_dictionary
+أشبك,ما بك؟,HIJAZI_URBAN,مكة/جدة,local,LOCAL,,Hijazi_dictionary
+دغري,مباشرة / على طول,HIJAZI_URBAN,الحجاز,local,LOCAL,مقترض تاريخيًا؛ محلي/قديم نسبيًا,Hijazi_dictionary
+مركاز,مكان جلوس/مجلس أمامي,HIJAZI_URBAN,الحجاز,heritage,LOCAL,تراثي/مكاني,Hijazi_dictionary
+روشان,شرفة/واجهة خشبية تقليدية,HIJAZI_URBAN,الحجاز,heritage,LOCAL,تراثي,Hijazi_dictionary
+اندر,اخرج,HIJAZI_URBAN,الحجاز,local,LOCAL,محلي قوي,Hijazi_dictionary
+بلكن,يمكن,HIJAZI_URBAN,الحجاز,local-old,LOCAL,قديم/محلي؛ تجنبه في modern brand copy,Hijazi_dictionary
+مرستكة,مرتبة جدًا / منمقة,HIJAZI_URBAN,الحجاز,local-old,LOCAL,محلي قديم/ثقافي,Hijazi_dictionary
+مدهمل,مبهدل,HIJAZI_URBAN,الحجاز,local,LOCAL,,Hijazi_dictionary
+وشوله,لماذا,HAIL_SHAMMARI,حائل/شمال,local,LOCAL,مرساة شمالية/حائلية,Hail_dictionary
+وشبلاك,ماذا بك,HAIL_SHAMMARI,حائل/شمال,local,LOCAL,,Hail_dictionary
+وشنوحك,ماذا بك,HAIL_SHAMMARI,حائل/شمر,local,LOCAL,,Hail_dictionary
+وغدان,أطفال,HAIL_SHAMMARI,حائل/شمر,local,LOCAL,,Hail_dictionary
+الوكاد,الأكيد / المهم,HAIL_SHAMMARI,حائل/شمر,local,LOCAL,,Hail_dictionary
+مامن,لا يوجد,HAIL_SHAMMARI,حائل/شمال,local,LOCAL,,Hail_dictionary
+غاد,هناك,HAIL_SHAMMARI,حائل/شمال,local,LOCAL,,Hail_dictionary
+دوك,خذ / تفضل,HAIL_SHAMMARI,حائل/شمر,local,LOCAL,,Hail_dictionary
+هقوتي,أظن / أتوقع,HAIL_SHAMMARI,حائل/شمال,local,LOCAL,يمتد لنجد أيضًا,Hail_dictionary
+مشوين,قبل قليل,HAIL_SHAMMARI,حائل,local,LOCAL,,Hail_dictionary
+باتسر,غدًا,HAIL_SHAMMARI,حائل,local,LOCAL,علامة محلية قوية جدًا,Hail_dictionary
+حلولات,ليت / يا ليت,HAIL_SHAMMARI,حائل/شمر,local,LOCAL,,Hail_dictionary
+غديه,ربما,HAIL_SHAMMARI,شمر/حائل,local,LOCAL,,Shammar_dictionary
+يا بعد حيي,يا غالي / تعبير مودة,HAIL_SHAMMARI,شمر/شمال,local-social,LOCAL,عاطفي قوي؛ ليس براند عام,Shammar_dictionary
+راعي,انظر / شوف (في بعض السياقات المحلية),HAIL_SHAMMARI,حائل/شمر,local,LOCAL,تحقق من السياق,Hail_dictionary
+ويش,ماذا,QATIF_LOCAL,القطيف/شرق,local,LOCAL,لا تستخدمه لكل الشرقية,Qatif_dictionary
+حق ويش,لأي شيء / لماذا,QATIF_LOCAL,القطيف,local,LOCAL,,Qatif_dictionary
+شحوالكم,كيف حالكم,QATIF_LOCAL,القطيف,local-social,LOCAL,,Qatif_dictionary
+وشحالكم,كيف حالكم,QATIF_LOCAL,القطيف,local-social,LOCAL,,Qatif_dictionary
+دش,ادخل,QATIF_LOCAL,القطيف/الخليج الشرقي,local,LOCAL,,Qatif_dictionary
+بند الليت,أطفئ الضوء,QATIF_LOCAL,القطيف,local,LOCAL,code-mixed historical Gulf usage,Qatif_dictionary
+جاهل,طفل,QATIF_LOCAL,القطيف,local,LOCAL,معنى محلي؛ قد يلتبس خارج المنطقة,Qatif_dictionary
+ياهل,طفل,QATIF_LOCAL,صفوى/القطيف,local,LOCAL,,Qatif_dictionary
+إمبلا,نعم / بلى,QATIF_LOCAL,القطيف,local,LOCAL,,Qatif_dictionary
+إلاوى,لماذا,QATIF_LOCAL,القطيف,local,LOCAL,,Qatif_dictionary
+إلى ويش,لأي شيء,QATIF_LOCAL,القطيف,local,LOCAL,,Qatif_dictionary
+قوطي,علبة مشروب/صفيح,QATIF_LOCAL,القطيف/الشرق,local,LOCAL,,Qatif_dictionary
+بانكة,مروحة,QATIF_LOCAL,القطيف,heritage-local,LOCAL,قديمة/مقترضة,Qatif_dictionary
+خاشوقة,ملعقة,QATIF_LOCAL,القطيف,heritage-local,LOCAL,قديمة/مقترضة,Qatif_dictionary
+هواش,شجار,QATIF_LOCAL,القطيف,local,MEDIUM,أوسع خليجيًا أيضًا,Qatif_dictionary
+نا,أنا,JAZANI_LOCAL,جازان/فيفاء وبعض المناطق,local,LOCAL,ليس عامًا في كل جازان,Jazan_dictionary
+موطي,نازل / منخفض,JAZANI_LOCAL,جازان,local,LOCAL,,Jazan_dictionary
+هلبعد,هذا,JAZANI_LOCAL,بني الحكم/أحد المسارحة,local,LOCAL,شديد المحلية,Jazan_dictionary
+هلبعدا,هذه,JAZANI_LOCAL,بني الحكم/أحد المسارحة,local,LOCAL,شديد المحلية,Jazan_dictionary
+ميبشه,ما بك؟,JAZANI_LOCAL,جازان بدوي محلي,local,LOCAL,شديد المحلية,Jazan_dictionary
+مته ميد,ماذا تريد؟,JAZANI_LOCAL,جازان بدوي محلي,local,LOCAL,شديد المحلية,Jazan_dictionary
+ياعادشه,أين أنت؟,JAZANI_LOCAL,جازان بدوي محلي,local,LOCAL,شديد المحلية,Jazan_dictionary
+ماحالشه,كيف الحال؟,JAZANI_LOCAL,جازان بدوي محلي,local,LOCAL,شديد المحلية,Jazan_dictionary
+زحلط,زلق / سقط,ASIRI_LOCAL,تهامة عسير,local,LOCAL,,Tihama_Asir_dictionary
+ندف,اضربه,ASIRI_LOCAL,تهامة عسير,local,LOCAL,,Tihama_Asir_dictionary
+ازقبه,اقذفه,ASIRI_LOCAL,تهامة عسير,local,LOCAL,,Tihama_Asir_dictionary

@@ -1,0 +1,15 @@
+{
+  "name": "marsad-saudi-dialect-content",
+  "description": "Write, localize and audit Arabic content for Saudi audiences in white or regional dialects.",
+  "owner": {
+    "name": "Marsad Labs",
+    "url": "https://labs.marsadgroup.co"
+  },
+  "plugins": [
+    {
+      "name": "saudi-dialect-content",
+      "source": "./",
+      "description": "Write, localize and audit Arabic content for Saudi audiences in white or regional dialects."
+    }
+  ]
+}
